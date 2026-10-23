@@ -2,6 +2,12 @@
 
 Aplicación web académica que automatiza la construcción de tablas de distribución de frecuencias y la generación de gráficas de barras a partir de datos categóricos. Permite organizar, resumir y visualizar resultados de uno o varios experimentos o preguntas dentro de un mismo estudio.
 
+## Demo en línea
+
+Puedes probar la aplicación desde GitHub Pages:
+
+**[Abrir Calculadora de Tablas de Frecuencia y Gráficas](https://migueldotdev.github.io/web-app-probabilidad/)**
+
 ## Tabla de contenidos
 
 - [Presentación del proyecto](#presentación-del-proyecto)
@@ -240,7 +246,3 @@ Los datos son de ejemplo; no representan resultados de una encuesta real ni form
 - [Chart.js](https://www.chartjs.org/)
 - [SweetAlert2](https://sweetalert2.github.io/)
 - [jQuery](https://jquery.com/)
-
-### Licencia
-
-No se especifica una licencia en esta documentación. Si deseas permitir formalmente la reutilización, modificación o distribución del proyecto, agrega una licencia al repositorio y actualiza esta sección para identificarla.
